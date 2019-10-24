@@ -1,4 +1,4 @@
-# DailyNews
+# Github commits
 Kotlin, Dagger 2, RxJava 2, Retrofit, MVP and MVVM demo
 
 In this project, I will share a practical example of Model View Presenter (MVP) pattern in Android development with Kotlin as basic language.
